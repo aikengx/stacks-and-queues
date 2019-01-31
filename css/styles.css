@@ -1,0 +1,46 @@
+h1{
+    font-size: 48px;
+    color: rgb(49, 49, 49);
+    font-weight: 600;
+}
+
+.container{}
+
+.container > div{
+    padding-bottom: 10px;
+}
+#stack{
+    padding: 5px 50px;
+    border: 0.5 solid gray;
+    border-radius: 5px;
+    width: 300px;
+    margin-top: 20px; 
+}
+#addElement{
+    padding: 5px 122px;
+    color: white;
+    background-color: rgb(4, 104, 255);
+    border: none;
+    border-radius: 5px;
+    width: 300px;
+    
+}
+#takeElement{
+    padding: 5px 120px;
+    color: white;
+    background-color: rgb(245, 30, 34);
+    border: none;
+    border-radius: 5px;
+    width: 300px;
+    margin-bottom: 20px;  
+}
+
+#emptyElement{
+  padding: 5px 120px;
+  color: black;
+  background-color: rgb(127, 127, 127);
+  border: none;
+  border-radius: 5px;
+  width: 300px;
+  margin-bottom: 20px;   
+}
